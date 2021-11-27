@@ -1,0 +1,1 @@
+[{"server":"47.106.161.38","server_port":11613,"password":"laoban999","method":"chacha20-ietf-poly1305","remarks":"深圳测试","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]

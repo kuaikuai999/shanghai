@@ -7,4 +7,4 @@
 {"server":"123.57.204.237","server_port":11528 ,"password":"teddysun.com","method":"aes-256-gcm","remarks":"北京37","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"101.200.131.199","server_port":9127 ,"password":"teddysun.com","method":"aes-256-gcm","remarks":"北京38","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"123.56.108.89","server_port":10802 ,"password":"teddysun.com","method":"aes-256-gcm","remarks":"北京39","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"101.200.223.50","server_port":17905 ,"password":"teddysun.com","method":"aes-256-gcm","remarks":"北京40","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+{"server":"123.57.140.239","server_port":11049 ,"password":"teddysun.com","method":"aes-256-gcm","remarks":"北京40","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
